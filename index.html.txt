@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Calibrando Flow 3D</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.8em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Calibrando Flow 3D</h1>
+  <p>Bio_teste</p>
+
+  <footer class="text-center mt-4">
+    <p>&copy; 2025 Calibrando Flow 3D. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
