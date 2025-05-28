@@ -1,27 +1,207 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Calibrando Flow 3D</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 50px;
-    }
-    footer {
-      margin-top: 50px;
-      font-size: 0.8em;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <h1>Calibrando Flow 3D</h1>
-  <p>Bio_teste</p>
 
-  <footer class="text-center mt-4">
-    <p>&copy; 2025 Calibrando Flow 3D. Todos os direitos reservados.</p>
-  </footer>
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Calibrando Flow 3D</title>
+  <meta content="Coisas mais úteis para imprimir em 3D" name="description">
+  <meta content="cool things to 3d print, best things to 3d print, 3d printing" name="keywords">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://kady3dprinting.com/public/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://kady3dprinting.com/public/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="https://kady3dprinting.com/public/assets/css/style.css" rel="stylesheet">
+
+  <meta property="og:title" content="Calibrando Flow 3D" />
+  <meta property="og:description" content="Coisas mais úteis para imprimir em 3D" />
+
+</head>
+
+<body>
+
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex flex-column align-items-center">
+
+      <a href="/">
+        <h1>Calibrando Flow 3D</h1>
+      </a>
+      <h2>Coisas mais úteis para imprimir em 3D</h2>
+
+    </div>
+  </header><!-- End #header -->
+
+<main id="main">
+  <div class="d-grid gap-2 col-10 mx-auto text-center">
+
+    <h4>STL Links usados nos vídeos</h4>
+
+    <form action="#" onsubmit="return false;">
+      <input class="form-control" id="search-input" placeholder="Digite para pesquisar...">
+    </form>
+
+    <div id="stlList">
+      <!-- Lista completa de modelos STL -->
+      <a href="/model/3d-printed-tilt-phone-stand">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem1.jpg" class="img-fluid" alt="Suporte Inclinado para Celular">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Suporte Inclinado para Celular</h4>
+                <p class="card-text">Da plataforma Maker World por MatthewGhost</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+
+      <a href="/model/3d-printed-articulated-scalemail-bracer">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem2.jpg" class="img-fluid" alt="Bracelete Articulado de Escamas">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Bracelete Articulado de Escamas</h4>
+                <p class="card-text">Da plataforma Cults3D por Propsmaker</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+
+      <a href="/model/3d-printed-tung-tung-tung-sahur-brainrot-model">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem3.jpg" class="img-fluid" alt="Tung Tung Tung Sahur Brainrot Model">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Tung Tung Tung Sahur Brainrot Model</h4>
+                <p class="card-text">Da plataforma Maker World por iparra24</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+<a href="/model/3d-printed-tung-tung-tung-sahur-brainrot-model">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem3.jpg" class="img-fluid" alt="Tung Tung Tung Sahur Brainrot Model">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Tung Tung Tung Sahur Brainrot Model</h4>
+                <p class="card-text">Da plataforma Maker World por iparra24</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+<a href="/model/3d-printed-tung-tung-tung-sahur-brainrot-model">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem3.jpg" class="img-fluid" alt="Tung Tung Tung Sahur Brainrot Model">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Tung Tung Tung Sahur Brainrot Model</h4>
+                <p class="card-text">Da plataforma Maker World por iparra24</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+<a href="/model/3d-printed-tung-tung-tung-sahur-brainrot-model">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem3.jpg" class="img-fluid" alt="Tung Tung Tung Sahur Brainrot Model">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Tung Tung Tung Sahur Brainrot Model</h4>
+                <p class="card-text">Da plataforma Maker World por iparra24</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+<a href="/model/3d-printed-tung-tung-tung-sahur-brainrot-model">
+        <div class="card mycard mb-2">
+          <div class="row g-0">
+            <div class="col-md-2 col-sm-2 col-3">
+              <img src="imagem3.jpg" class="img-fluid" alt="Tung Tung Tung Sahur Brainrot Model">
+            </div>
+            <div class="col-md-10 col-sm-10 col-9">
+              <div class="card-body">
+                <h4 class="card-title">Tung Tung Tung Sahur Brainrot Model</h4>
+                <p class="card-text">Da plataforma Maker World por iparra24</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+
+      
+    </div>
+
+       
+    <h4>Links Úteis</h4>
+    <a href="https://text-to-stl.kady3dprinting.com" class="btn btn-light btn-lg">Texto para STL & Gerador de Chaveiros</a>
+
+    <h4>Links Pessoais</h4>
+
+    <a href="https://www.youtube.com/@calibrarflow3d" class="btn btn-light btn-lg"><i class="bi bi-youtube"></i> YouTube</a>
+    <a href="https://www.instagram.com/calibrandoflow3d" class="btn btn-light btn-lg"><i class="bi bi-instagram"></i> Instagram</a>
+
+    <h4>Componentes de Impressão</h4>
+    <a href="https://s.click.aliexpress.com/e/_mtbVjuk" class="btn btn-light btn-lg">Ímãs de Neodímio 5x2mm (Aliexpress)</a>
+
+    <h4>Minhas Máquinas</h4>
+ <a href="https://pt.aliexpress.com/item/1005006371832432.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.8.4208yaSIyaSIyn&gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.396806.0&scm_id=1007.14452.396806.0&scm-url=1007.14452.396806.0&pvid=874c5c1a-95a0-4795-8b40-b8595330f090&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.396806.0,pvid:874c5c1a-95a0-4795-8b40-b8595330f090,tpp_buckets:668%232846%238108%231977&pdp_ext_f=%7B%22order%22%3A%22103%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21BRL%214583.22%212887.43%21%21%215544.67%213493.14%21%402101ead817483727380346459eb330%2112000036934269209%21rec%21BR%21177139489%21XZ&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A&search_p4p_id=20250527120538075684255986386351905_7" class="btn btn-light btn-lg">ELEGOO SATURN 2 8K</a>
+ <a href="https://bambulab.com/pt-br/a1" class="btn btn-light btn-lg">BAMBU LAB A1</a>
+
+  </div>
+</main><!-- End #main -->
+
+<<div id="footer">
+  Entre em contato em <strong><a href="mailto:RATRIXCBA@GMAIL.COM">seuemail@example.com</a></strong> | 
+  <a href="/privacyPolicy">Política de Privacidade</a>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://kady3dprinting.com/public/assets/js/main.js"></script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X0HYJ3HXKB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-X0HYJ3HXKB');
+</script>
+
+<footer class="text-center mt-4">
+  <p>&copy; 2025 Calibrando Flow 3D. Todos os direitos reservados.</p>
+</footer>
+
 </body>
 </html>
